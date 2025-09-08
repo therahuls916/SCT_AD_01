@@ -9,7 +9,7 @@ Auric Calculator is a sleek, powerful, and modern calculator application for And
 
 | Main Screen (Calculation) | Dark Theme (Default) |
 | :---: |:---:|
-| *(Your Screenshot Here)* | *(Your Screenshot Here)* |
+| ![2 Calculation](https://github.com/user-attachments/assets/2c87f361-bc7a-48f5-ae29-316a2b73123e) | ![1 Empty Screen](https://github.com/user-attachments/assets/6891ff69-9302-4732-a20d-0f96f7a8500e) |
 | A screenshot showing a complex calculation like `8+12/(6-2)` with the live result `11` displayed below. | A screenshot showing the default dark theme of the calculator, ready for input. |
 
 ---
